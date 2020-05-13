@@ -19,28 +19,28 @@ public class RealSize : MonoBehaviour
     {
 
         //tipe1
-        dome.transform.localScale = new Vector3(5f, 5f, 5f);
+        dome.transform.localScale = new Vector3(7f, 7f, 7f);
         dome.transform.localPosition = new Vector3(0f, -1f, 0f);
 
-        mpiano.transform.localScale = new Vector3(5f, 5f, 5f);
-        p4.transform.localScale = new Vector3(5f, 5f, 5f);
-        ppersegi.transform.localScale = new Vector3(5f, 5f, 5f);
-        ppolos.transform.localScale = new Vector3(5f, 5f, 5f);
+        mpiano.transform.localScale = new Vector3(7f, 7f, 7f);
+        p4.transform.localScale = new Vector3(7f, 7f, 7f);
+        ppersegi.transform.localScale = new Vector3(7f, 7f, 7f);
+        ppolos.transform.localScale = new Vector3(7f, 7f, 7f);
 
         //tipe2
-        c8.transform.localScale = new Vector3(5f, 5f, 5f);
+        c8.transform.localScale = new Vector3(5f, 5f, 5.5f);
         c8.transform.localPosition = new Vector3(0f, -0.1f, 0f);
 
-        c12.transform.localScale = new Vector3(5f, 5f, 5f);
+        c12.transform.localScale = new Vector3(5f, 5f, 5.5f);
         c12.transform.localPosition = new Vector3(0f, -0.1f, 0f);
 
-        piano.transform.localScale = new Vector3(5f, 5f, 5f);
+        piano.transform.localScale = new Vector3(5f, 5f, 5.5f);
         piano.transform.localPosition = new Vector3(0f, -0.1f, 0f);
 
-        sbesar.transform.localScale = new Vector3(5f, 5f, 5f);
+        sbesar.transform.localScale = new Vector3(5f, 5f, 5.5f);
         sbesar.transform.localPosition = new Vector3(0f, -0.1f, 0f);
 
-        vpolos.transform.localScale = new Vector3(5f, 5f, 5f);
+        vpolos.transform.localScale = new Vector3(5f, 5f, 5.5f);
         vpolos.transform.localPosition = new Vector3(0f, -0.1f, 0f);
     }
 
